@@ -153,7 +153,7 @@ There are two steps:
    Add the screenshot to your git repo, and modify the `<img>` tag below to point to the screenshot.
 
    <img src='ss1.png' />
-   <img src='ss2.png' />
+   <img src='ss2x.png' />
 
 1. Commit and push your changes to github.
 
