@@ -152,7 +152,8 @@ There are two steps:
 1. Take a screenshot of an interesting search result.
    Add the screenshot to your git repo, and modify the `<img>` tag below to point to the screenshot.
 
-   <img src='screenshot.png' />
+   <img src='ss1.png' />
+   <img src='ss2.png' />
 
 1. Commit and push your changes to github.
 
